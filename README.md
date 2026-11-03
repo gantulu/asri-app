@@ -11,8 +11,8 @@ A responsive customer-facing storefront for ASRI Collection.
 
 ## Requirements
 
-- Node.js 20.19+ or 22.12+
-- npm
+- Node.js 22.12+
+- npm 10+
 
 ## Getting started
 
